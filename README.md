@@ -1,2 +1,3 @@
 # boom
-This program is a program that handles Employee access and activity monitoring
+This program is a program that handles user access and monitors their activities in realtime tracking
+
