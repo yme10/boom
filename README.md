@@ -1,2 +1,3 @@
 # boom
-its a program to crash loneliness
+This program is a program that handles user access and monitors their activities in realtime tracking
+
